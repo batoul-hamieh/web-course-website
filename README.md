@@ -5,6 +5,7 @@ This project is a static website built using HTML and CSS as part of a Web Desig
 # Technologies Used
 
 HTML5 – For structure and content
+
 CSS3 – For layout and styling
 
 # Project Structure
