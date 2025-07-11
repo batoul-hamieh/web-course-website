@@ -2,11 +2,13 @@
 
 This project is a static website built using HTML and CSS as part of a Web Design course. It serves as a functional course platform, featuring multiple sections to simulate a real-world educational site.
 
+
 # Technologies Used
 
 HTML5 – For structure and content
 
 CSS3 – For layout and styling
+
 
 # Project Structure
 
