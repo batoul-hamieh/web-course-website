@@ -19,3 +19,11 @@ CSS3 – For layout and styling
 - 'Members Page': Displays statistics and data about enrolled students.
 - 'Reviews Page': Shows reviews and feedback from students who have completed the course.
 - 'Contact Us Page': Offers a form to get in touch with the course team for questions or assistance.
+
+
+### Clone the Repository
+To get a local copy of the project, run:
+
+```bash
+
+git clone https://github.com/your-username/your-repository-name.git
